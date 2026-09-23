@@ -293,7 +293,6 @@ CodePilot-SQL-Analysis/
 
 * **SQL**
 * **MySQL / SQL Workbench**
-* **GitHub**
 
 ---
 
